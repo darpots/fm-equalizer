@@ -15,15 +15,13 @@
 		font-size: 18px;
 		padding-block: 15px;
 		border-radius: 12px;
-		line-height: 32px;
-		text-align: center;
 		letter-spacing: -0.18px;
 		border: 0;
 		transition: all 0.2s ease-in-out;
-		/* width: 100%; */
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		width: 100%;
 	}
 
 	.primary {
@@ -47,7 +45,6 @@
 	}
 
 	img {
-		outline: 1px solid hotpink;
-		/* margin: -3px 0; */
+		margin-right: 8px;
 	}
 </style>
