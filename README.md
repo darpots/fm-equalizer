@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/darpots/fm-equalizer)
-- Live Site URL: [Vercel Live Site](https://your-live-site-url.com)
+- Live Site URL: [Vercel Live Site](https://fm-equalizer.vercel.app)
 
 ### What I learned
 
