@@ -4,10 +4,10 @@
 
 <section>
 	<div class="pattern">
-		<img src="/src/images/bg-pattern-2.svg" alt="" />
+		<img src="/bg-pattern-2.svg" alt="" />
 	</div>
 	<div class="illustration">
-		<img src="/src/images/illustration-app.png" alt="" />
+		<img src="/illustration-app.png" alt="" />
 	</div>
 	<div class="cta">
 		<h1>Premium EQ</h1>
@@ -17,9 +17,9 @@
 		</p>
 		<p class="price"><span>$4</span>/ month</p>
 		<div style="margin-bottom: 20px;">
-			<Buttons icon="/src/images/icon-apple.svg" text="iOS Download" />
+			<Buttons icon="/icon-apple.svg" text="iOS Download" />
 		</div>
-		<Buttons icon="/src/images/icon-android.svg" text="Android Download" type="secondary" />
+		<Buttons icon="/icon-android.svg" text="Android Download" type="secondary" />
 	</div>
 </section>
 

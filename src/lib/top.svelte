@@ -1,9 +1,9 @@
 <header>
 	<div class="pattern">
-		<img src="/src/images/bg-pattern-1.svg" alt="" />
+		<img src="/bg-pattern-1.svg" alt="" />
 	</div>
 	<div class="logo">
-		<img src="/src/images/logo.svg" alt="" />
+		<img src="/logo.svg" alt="" />
 	</div>
 	<h1>We make your music sound extraordinary.</h1>
 	<p>

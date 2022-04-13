@@ -1,10 +1,6 @@
-<script>
-	import FB from '/src/images/icon-facebook.svg';
-</script>
-
 <section>
 	<div class="logo">
-		<img src="/src/images/logo.svg" alt="logo" />
+		<img src="/logo.svg" alt="logo" />
 	</div>
 	<div class="tablet">
 		<div>
